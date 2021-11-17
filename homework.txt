@@ -1,0 +1,19 @@
+1)reverse a given string without using reverse method
+2)sort letters of a string in ascending and descending order
+3)bubble sort words of a string in asc and desc order
+ex:this is java class
+use for reference
+   compareTo()
+collection.sort()
+collections.sort(descnding order)
+
+4:how many times a character occurs in a string
+ex:
+5 how many times a substring occur in a string
+ex:hi am prakash,iam not studying
+iam=2
+hi=1
+
+
+
+	
